@@ -1,0 +1,15 @@
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\bin\Debug\net6.0\Services.deps.json
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\bin\Debug\net6.0\Services.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\bin\Debug\net6.0\Services.pdb
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\bin\Debug\net6.0\Domain.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\bin\Debug\net6.0\Domain.pdb
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\Services.pdb
+C:\Проекти\NotionCodding\NotionInterviewRepo\Services\obj\Debug\net6.0\ref\Services.dll

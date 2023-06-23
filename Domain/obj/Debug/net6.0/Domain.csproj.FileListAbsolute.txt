@@ -1,0 +1,12 @@
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\bin\Debug\net6.0\Domain.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Проекти\NotionCodding\NotionInterviewRepo\Domain\obj\Debug\net6.0\ref\Domain.dll
